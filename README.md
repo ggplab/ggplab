@@ -55,6 +55,10 @@ Next book in progress.
 
 ## 🎲 Side Project
 
+<a href="https://aos.ggplab.xyz">
+<img src="assets/aos-game-board.png" alt="AOS Fan-made — Age of Steam web implementation, Rust Belt map with player panels and game log" width="100%"/>
+</a>
+
 **[AOS Fan-made](https://aos.ggplab.xyz)** — an unofficial, non-commercial web implementation of the train board game *Age of Steam*. Rust Belt and Scotland maps, 3-player games against 2 AI opponents. Built to stress-test AI pair programming on something I love.
 
 ---
