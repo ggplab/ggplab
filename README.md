@@ -1,6 +1,6 @@
 <div align="center">
 
-# Jay Jung Lim (임정)
+# buildnwrite
 
 **Helping solo builders work smarter than teams with AI — author, educator, and your closest AI mentor**
 
