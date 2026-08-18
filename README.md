@@ -72,6 +72,19 @@ Next book in progress.
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
+## 🧩 Open Source I Use Daily
+
+The projects behind the stack — and where I contribute back.
+
+| Project | How I use it |
+|---|---|
+| [**diagram-design**](https://github.com/cathrynlavery/diagram-design) | Editorial diagrams straight from Claude Code — every architecture/flow diagram in my books, decks, and research notes. Contributing fixes upstream (CJK font/label support, Mermaid import). |
+| [**n8n**](https://github.com/n8n-io/n8n) | The automation backbone — self-hosted on a Mac mini, powering my pipelines. Wrote [the book](https://www.yes24.com/product/goods/185269651) on it. |
+| [**Supabase**](https://github.com/supabase/supabase) | Backend for [ggplab.xyz](https://ggplab.xyz) — Postgres, edge functions, Discord-integrated ops. |
+| [**uv**](https://github.com/astral-sh/uv) | The Python environment standard across all my agent workflows — one lockfile, same result on every machine. |
+| [**FFmpeg**](https://github.com/FFmpeg/FFmpeg) | My entire YouTube edit pipeline — cuts, silence compression, subtitles, overlays — is a single FFmpeg path. |
+| [**rclone**](https://github.com/rclone/rclone) | Cloud-storage migrations and backups without leaving the terminal. |
+
 ## 📬 Contact
 
 - Lectures, mentoring, and collaboration — [ggplab.xyz](https://ggplab.xyz)
