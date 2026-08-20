@@ -4,7 +4,7 @@
 
 **Helping solo builders work smarter than teams with AI — author, educator, and your closest AI mentor**
 
-[🌐 ggplab.xyz](https://ggplab.xyz) · [💼 LinkedIn](https://www.linkedin.com/in/jayjunglim) · [🧵 Threads](https://www.threads.com/@buildnwrite) · [📚 Book](https://www.yes24.com/product/goods/185269651)
+[🌐 buildnwrite.com](https://buildnwrite.com) · [💼 LinkedIn](https://www.linkedin.com/in/jayjunglim) · [🧵 Threads](https://www.threads.com/@buildnwrite) · [📚 Book](https://www.yes24.com/product/goods/185269651) · [✉️ contact@buildnwrite.com](mailto:contact@buildnwrite.com)
 
 </div>
 
